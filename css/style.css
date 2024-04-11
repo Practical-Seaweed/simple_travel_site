@@ -1,0 +1,31 @@
+h1 {
+    border: 5px solid black;
+    padding: auto;
+    margin:auto;
+    background-color: #003594;
+    color: #869397;
+    font-family:fantasy;
+    font-size: 75px;
+    font-weight: 300;
+}
+
+a {
+    font-size: 33px;
+    margin:auto;
+    padding:auto;
+   
+}
+
+p {
+    font-size: 25px;
+    color:#869397;
+}
+
+table {
+    color:black;
+    font-style: oblique;
+}
+
+table td {
+    color:#003594
+}
